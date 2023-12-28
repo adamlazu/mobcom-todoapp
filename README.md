@@ -8,3 +8,6 @@ dapat mencatat hal-hal yang harus saya kerjakan.
 -Menambah todo <br>
 -Melihat todo list <br>
 -Menghapus todo <br>
+
+link video: <br>
+https://youtu.be/JB1RSHdkQ7o?si=7gYTkVZ__ev5TfUK
